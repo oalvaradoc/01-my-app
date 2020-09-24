@@ -17,7 +17,7 @@ export class Tab1Page {
 
   numero = 10
 
-    console.log('Hola Mundo' + numero);
+    console.log('Hola Mundo ' + numero);
   }
 
 }
