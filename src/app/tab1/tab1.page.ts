@@ -13,9 +13,9 @@ export class Tab1Page {
   ngOnInit(): void {
 
   let numero = 20;
-  debugger;
+  // debugger;
 
-  numero = 10
+  numero = 10;
 
     console.log('Hola Mundo ' + numero);
   }
